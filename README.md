@@ -32,4 +32,4 @@ Through this project, I gained practical experience in designing Salesforce data
 
 The project demonstrates how Salesforce can be used to build a scalable fashion business platform that connects **customer management, order processing, inventory control, loyalty programs, and business automation** in one system.
 
-## Demo video Link:## https://1drv.ms/v/c/8d1b65cdcacb25c5/IQAbKfj1VHVKQbekgf31gY6nAX3V8aODt3Nxeq8EqDqgSIA?e=qlsWe7
+## Demo video Link: https://1drv.ms/v/c/8d1b65cdcacb25c5/IQAbKfj1VHVKQbekgf31gY6nAX3V8aODt3Nxeq8EqDqgSIA?e=qlsWe7
